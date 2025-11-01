@@ -12,7 +12,9 @@ Pourquoi ?
 ---
 
 ✅ Gain de temps : Calculs automatiques des 7 ratios clés
+
 ✅ Visualisation claire : Graphiques interactifs et synthèse intelligente
+
 ✅ Alertes automatiques : Identification des zones de risque
 
 ---
