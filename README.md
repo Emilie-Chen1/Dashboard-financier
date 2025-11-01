@@ -4,6 +4,7 @@ Dashboard interactif pour analyser vos ratios financiers en quelques clics.
 
 ---
 🎯 Objectif
+
 Ce dashboard a été conçu pour simplifier l'analyse financière des entreprises en automatisant le calcul et la visualisation des principaux ratios financiers.
 
 ---
