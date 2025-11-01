@@ -198,5 +198,4 @@ finance_dashboard/
 ## 👥 Auteurs
 
 **CHEN Emilie** & **TOUSSAH Harrol**  
-DU SDA (Science des Données Appliquées) - 2024-2025
 
